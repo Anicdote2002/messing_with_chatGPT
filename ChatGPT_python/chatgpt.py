@@ -2,7 +2,9 @@
 import openai
 
 # Set up the OpenAI API client
-openai.api_key = "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"
+openai.api_key = "sk-r3VE2wemuch0assjwSeTT3BlbkFJy8OSCwo5SXcHGojPOPKFhello"
+#generate and use your own API Key. This one is my old API key for ChatGPT. 
+#DO NOT USE THIS API KEY. It will throw an error
 
 # this loop will let us ask questions continuously and behave like ChatGPT
 while True:
